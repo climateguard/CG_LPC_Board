@@ -13,9 +13,9 @@
 
 **You can buy CG_LPC_Board at:**
 
--  Tindie -- **COMING SOON**
--  Aliexpress -- **COMING SOON**
--  Alibaba -- **COMING SOON**
+-  Tindie - **COMING SOON**
+-  Aliexpress - **COMING SOON**
+-  Alibaba - **COMING SOON**
 
 
 ## [](https://github.com/climateguard/RadSens#instructions)Instructions
